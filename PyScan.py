@@ -1,3 +1,6 @@
+'''
+NOTA : Este programa deve ser usado apenas para fins legais! Eu não sou responsável por nada que você faça com isso.
+'''
 import socket
 
 def scan():
